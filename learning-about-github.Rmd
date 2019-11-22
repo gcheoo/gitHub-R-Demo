@@ -1,0 +1,14 @@
+---
+title: "Learning About Github"
+author: "Gisela Cheoo"
+date: "22/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## GitHub
+
+This is an R Markdown document. Workshop about GitHub.
